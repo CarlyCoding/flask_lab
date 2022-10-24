@@ -1,2 +1,2 @@
 # flask_lab
-A lab to practise using controllers and CSS in python
+A lab to practise using controllers and CSS in python (paired programming) 
